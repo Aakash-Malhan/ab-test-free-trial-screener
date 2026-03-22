@@ -176,5 +176,3 @@ ab-test-free-trial-screener/
 ## Author
 
 **Aakash Malhan**  
-Aspiring Product Growth Analyst  
-[LinkedIn](https://linkedin.com/in/your-link) | [GitHub](https://github.com/Aakash-Malhan)
